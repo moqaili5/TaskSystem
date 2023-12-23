@@ -1,0 +1,31 @@
+  <style>  ul {
+            list-style-type: none;
+            background-color: #229954;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            padding: 10px;
+            display: block;
+        }
+
+        li a:hover {
+            background-color: #D5F5E3;
+        }
+
+        .page-title {
+            float: right;
+            padding: 14px 80px;
+            color: white;
+            font-family: Copperplate Gothic Bold;
+        }
+		</style>
